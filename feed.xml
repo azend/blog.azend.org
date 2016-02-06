@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacking Things</title>
+    <description>My tumblelog of things.</description>
+    <link>http://blog.azend.org/</link>
+    <atom:link href="http://blog.azend.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 06 Feb 2016 18:18:58 -0500</pubDate>
+    <lastBuildDate>Sat, 06 Feb 2016 18:18:58 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Surface Pro 3 Dock</title>
+        <description>&lt;p&gt;This is what a dock on the Surface Pro 3 looks like…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2016-02-06-surface-pro-3-dock/IMG_20160114_184142.jpg&quot; alt=&quot;Surface Pro 3 dock&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s right. It’s a 5 port USB 3.0 hub and a mini displayport to HDMI + VGA adapter.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://blog.azend.org/surface-pro-3-dock/</link>
+        <guid isPermaLink="true">http://blog.azend.org/surface-pro-3-dock/</guid>
+        
+        
+        <category>diy</category>
+        
+      </item>
+    
+      <item>
+        <title>HP Printer Porn -- Also known as the 2225A</title>
+        <description>&lt;p&gt;Here’s yet another reason to always know the person who takes out your garbage. An original Hewlett-Packard ThinkJet 2225A straight out of 1984. This ought to be in a museum. And the best part? Staples still sells brand new ink cartridges for these printers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2016-02-06-hp-printer-porn----also-known-as-the-2225a/IMG_20160107_162347.jpg&quot; alt=&quot;HP ThinkJet 2225A from the top-front&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2016-02-06-hp-printer-porn----also-known-as-the-2225a/IMG_20160107_162356.jpg&quot; alt=&quot;HP ThinkJet 2225A from the top&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2016-02-06-hp-printer-porn----also-known-as-the-2225a/IMG_20160107_162327.jpg&quot; alt=&quot;HP ThinkJet 2225A from the back&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Some friends of mine and I are planning on taking this printer and restoring it back to its original printing self. With HP-IB as the only interface, it’s going to take some thinking to turn this into a regular usb printer.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 06 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://blog.azend.org/hp-printer-porn----also-known-as-the-2225a/</link>
+        <guid isPermaLink="true">http://blog.azend.org/hp-printer-porn----also-known-as-the-2225a/</guid>
+        
+        
+        <category>retro</category>
+        
+      </item>
+    
+      <item>
+        <title>Big V Is In The House!</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/2016-02-06-big-v-is-in-the-house/IMG_20160205_011124.jpg&quot; alt=&quot;Outside of V with lights fading in&quot; /&gt;
+&lt;img src=&quot;/assets/2016-02-06-big-v-is-in-the-house/IMG_20160205_011122.jpg&quot; alt=&quot;Outside of V with lights fading out&quot; /&gt;
+&lt;img src=&quot;/assets/2016-02-06-big-v-is-in-the-house/IMG_20160205_011132.jpg&quot; alt=&quot;Bare insides of the V&quot; /&gt;
+&lt;img src=&quot;/assets/2016-02-06-big-v-is-in-the-house/IMG_20160205_011145.jpg&quot; alt=&quot;Little arduino board with driver FET&quot; /&gt;
+&lt;img src=&quot;/assets/2016-02-06-big-v-is-in-the-house/IMG_20160205_011151.jpg&quot; alt=&quot;Underside of the driver board&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://blog.azend.org/big-v-is-in-the-house/</link>
+        <guid isPermaLink="true">http://blog.azend.org/big-v-is-in-the-house/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Save time and improve efficiency</title>
+        <description>
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;127.0.0.1	youtube.com&amp;quot;&lt;/span&gt; &amp;gt;&amp;gt; /etc/hosts
+&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;127.0.0.1	netflix.com&amp;quot;&lt;/span&gt; &amp;gt;&amp;gt; /etc/hosts&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 15 Jun 2015 00:28:17 -0400</pubDate>
+        <link>http://blog.azend.org/save-time-and-improve-efficiency/</link>
+        <guid isPermaLink="true">http://blog.azend.org/save-time-and-improve-efficiency/</guid>
+        
+        
+        <category>productivity</category>
+        
+        <category>tips</category>
+        
+      </item>
+    
+  </channel>
+</rss>
