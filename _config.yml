@@ -1,22 +1,22 @@
 # Site settings
-title: Zetsu
-email: zetsu@domain.com
-description: Um lindo tema feito para jekyll e com o <3
-baseurl: "/zetsu"
-url: "http://nandomoreira.me"
+title: Hacking Things
+email: verdi@azend.org
+description: My tumblelog of things.
+baseurl: "/"
+url: "http://blog.azend.org"
 
 author:
-  name     : 'Fernando Moreira'
-  email    : hi@nandomoreira.me
-  url      : http://nandomoreira.me
-  facebook : http://facebook.com/fernando.dev
-  twitter  : http://twitter.com/nandomoreirame
+  name     : 'Verdi Rodrigues-Diamond'
+  email    : verdi@azend.org
+  url      : http://azend.org/
+  #facebook : http://facebook.com/fernando.dev
+  #twitter  : http://twitter.com/nandomoreirame
 
-github: https://github.com/nandomoreirame/zetsu
-disqus_shortname: "fernandomoreira"
-google_analytics: UA-52446115-1
+github: https://github.com/azend/blog.azend.org
+#disqus_shortname: "fernandomoreira"
+#google_analytics: UA-52446115-1
 
-paginate: 2
+paginate: 5
 comments: true
 paginate_path: "/page/:num"
 
