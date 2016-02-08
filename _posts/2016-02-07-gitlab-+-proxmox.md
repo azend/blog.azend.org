@@ -5,6 +5,8 @@ date:   2016-02-07 19:49:40
 categories: server homelab
 comments: true
 ---
+Use Proxmox 4.0 they said. It would be easy they said. From what I've seen LXC is never simple. Let us begin...
+
 In a Proxmox based LXC container, sysctl is read only. GitLab does not like this and will not configure without outside intervention. As a hack until a proper patch is created, one can simply comment out the line which tries to apply sysctl rules.
 
 In `/opt/gitlab/embedded/cookbooks/gitlab/definitions/sysctl.rb`
