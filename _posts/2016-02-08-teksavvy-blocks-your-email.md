@@ -58,4 +58,4 @@ relayhost = smtp.teksavvy.com:25
 ...
 {% endhighlight %}
 
-
+Thanks to @skoba who, after some googling, helped knock some sense into me. [http://www.skoba.ca/relaying-email-with-teksavvy/](http://www.skoba.ca/relaying-email-with-teksavvy/)
